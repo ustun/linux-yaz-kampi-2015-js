@@ -1,0 +1,27 @@
+[
+    {
+        "ad": "Tim",
+        "soyad": "Robbins",
+        "ulke": "Amerika",
+        "dogumYili": 1958
+    },
+    {
+        "ad": "Morgan",
+        "soyad": "Freeman",
+        "ulke": "Amerika",
+        "dogumYili": 1937
+    },
+    {
+        "ad": "Marlon",
+        "soyad": "Brando",
+        "ulke": "Amerika",
+        "dogumYili": 1924,
+        "olumYili": 2004
+    },
+    {
+        "ad": "Al",
+        "soyad": "Pacino",
+        "ulke": "Amerika",
+        "dogumYili": 1940
+    }
+]

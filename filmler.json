@@ -1,0 +1,80 @@
+[
+    {
+        "ad": "Shawshank Redemption",
+        "yil": 1994,
+        "yonetmen": {
+            "ad": "Frank",
+            "soyad": "Darabont",
+            "ulke": "Fransa",
+            "dogumYili": 1959
+        },
+        "karakterler": [
+            {
+                "ad": "Andy Dufresne",
+                "oyuncu": {
+                    "ad": "Tim",
+                    "soyad": "Robbins",
+                    "ulke": "Amerika",
+                    "dogumYili": 1958
+                }
+            },
+            {
+                "ad": "Redding",
+                "oyuncu": {
+                    "ad": "Morgan",
+                    "soyad": "Freeman",
+                    "ulke": "Amerika",
+                    "dogumYili": 1937
+                }
+            }
+        ],
+        "turler": [
+            {
+                "ad": "drama"
+            },
+            {
+                "ad": "crime"
+            }
+        ],
+        "izlendi": true,
+        "izlenmeTarihi": "2015-08-13T06:25:12.570Z"
+    },
+    {
+        "ad": "Godfather1",
+        "yil": 1972,
+        "yonetmen": {
+            "ad": "Francis",
+            "soyad": "Coppola",
+            "ulke": "Amerika",
+            "dogumYili": 1939
+        },
+        "karakterler": [
+            {
+                "ad": "Don Vito Corleone",
+                "oyuncu": {
+                    "ad": "Marlon",
+                    "soyad": "Brando",
+                    "ulke": "Amerika",
+                    "dogumYili": 1924,
+                    "olumYili": 2004
+                }
+            },
+            {
+                "ad": "Michael Corleone",
+                "oyuncu": {
+                    "ad": "Al",
+                    "soyad": "Pacino",
+                    "ulke": "Amerika",
+                    "dogumYili": 1940
+                }
+            }
+        ],
+        "turler": [
+            {
+                "ad": "drama"
+            }
+        ],
+        "izlendi": false,
+        "izlenmeTarihi": null
+    }
+]
