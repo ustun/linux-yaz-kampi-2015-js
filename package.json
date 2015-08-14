@@ -1,0 +1,25 @@
+{
+  "name": "yaz_kampi_2015_ileri_javascript",
+  "version": "1.0.0",
+  "description": "Ornekleri calistirmak icin `node server.js` yazin ve `http://localhost:3000`'e gidin.",
+  "main": "filmler.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustun/linux-yaz-kampi-2015-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ustun/linux-yaz-kampi-2015-js/issues"
+  },
+  "homepage": "https://github.com/ustun/linux-yaz-kampi-2015-js#readme"
+}
